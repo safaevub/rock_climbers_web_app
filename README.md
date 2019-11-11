@@ -1,5 +1,5 @@
 # rock_climbers_web_app
-Rock Climbers Web application where I used Python Flask Framework for Backend, Vue.js for interactions and frontend, MongoDB for database.
+Rock Climbers Web application where we used Python Flask Framework for Backend, Vue.js for interactions and frontend, MongoDB for database.
 Want to use this project?
 
     Fork/Clone
