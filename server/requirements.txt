@@ -1,0 +1,11 @@
+setuptools
+NumPy
+python-dateutil
+pytz
+pandas
+datetime
+Flask
+Flask_pymongo
+Flask_cors
+Flask_bcrypt
+Flask_jwt_extended
